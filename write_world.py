@@ -1,0 +1,8 @@
+file=open('C:\Users\Rimna\Desktop\programming\labtest\lab03\hello_worlds.txt','w')
+file.write('Hello,world!''\n')
+file.write('I am awesome')
+file.close()
+pfile=open('C:\Users\Rimna\Desktop\programming\labtest\lab03\partner.txt','w')
+pfile.write('Sharim Babar''\n')
+pfile.write('Jordan Sanyaolu')
+pfile.close()
