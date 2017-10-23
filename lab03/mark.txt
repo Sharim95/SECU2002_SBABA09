@@ -1,0 +1,13 @@
+
+mark: 3
+
+notes:
+-in swap.py, print statement should be outside body of if (print regardless)
+-great use of file writing for partner.txt in write_world.py
+-in read_hello.py, need to use f.close()
+-the solution in hangman.py is really similar to one i found on the internet
+ (http://www.canyoucompute.co.uk/uploads/1/4/2/4/14249012/05_hangman.pdf),
+ since it is at least somewhat altered i'm just taking off a mark for now but
+ please don't do this in the future (or at least comment the code to 
+ demonstrate you understood why the code worked)
+-need much more commenting throughout all files
